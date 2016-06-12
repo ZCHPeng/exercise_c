@@ -1,11 +1,3 @@
-//
-//  main.c
-//  chapter1
-//
-//  Created by 赵晨洪 on 16/6/12.
-//  Copyright © 2016年 赵晨洪. All rights reserved.
-//
-
 #include <stdio.h>
 #include <stdlib.h>
 
